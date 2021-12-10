@@ -1,4 +1,4 @@
-# BADS7205-1-64--NNN
+# BADS7205-1-64--NNP
 ## Project BADS7205(1/64)
 ### Member:
 ```
